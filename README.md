@@ -18,7 +18,7 @@ This is the office implementation of ***FiveA+Network: You Only Need 9K Paramete
 
 
 ## Contact
-**Jingxia Jiang: 202021114006@jmu.edu.cn**
-Tian Ye: maserowen718@gmail.com
-Sixiang Chen: 201921114013@jmu.edu.cn
+**Jingxia Jiang: 202021114006@jmu.edu.cn** <hr />
+Tian Ye: maserowen718@gmail.com <hr />
+Sixiang Chen: 201921114013@jmu.edu.cn <hr />
 
