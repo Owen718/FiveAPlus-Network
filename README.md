@@ -2,7 +2,7 @@
 
 This is the office implementation of ***FiveA+Network: You Only Need 9K Parameters for Underwater Image Enhancement.***
 
-***Jingxia Jiang, Tian Ye, Sixiang Chen, Yun Liu, Jinbin Bai, Wenhao Chai, Jun Shi, Erkang Chen***
+***Jingxia Jiang, Tian Ye, Jinbin Bai, Sixiang Chen, Wenhao Chai, Jun Shi, Yun Liu, Erkang Chen***
 
 ***JMU｜SWU｜NUS｜ZJU｜XJU***
 
