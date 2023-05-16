@@ -4,7 +4,7 @@ This is the office implementation of ***FiveA+Network: You Only Need 9K Paramete
 
 ***Jingxia Jiang, Tian Ye, Jinbin Bai, Sixiang Chen, Wenhao Chai, Jun Shi, Yun Liu, Erkang Chen***
 
-***JMU｜SWU｜NUS｜ZJU｜XJU***
+***JMU｜NUS｜ZJU｜XJU｜SWU***
 
 <hr />
 
