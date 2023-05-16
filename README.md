@@ -16,8 +16,8 @@ This is the office implementation of ***FiveA+Network: You Only Need 9K Paramete
 
 
 ## TODO List
-- [ ] Testing Code&Checkpoint
-- [ ] Model.py
+- [x] Testing Code&Checkpoint
+- [x] Model.py
 - [ ] Train.py
 
 
