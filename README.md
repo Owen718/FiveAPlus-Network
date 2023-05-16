@@ -6,6 +6,8 @@ This is the office implementation of ***FiveA+Network: You Only Need 9K Paramete
 
 ***JMU｜NUS｜ZJU｜XJU｜SWU***
 
+[Arxiv](https://arxiv.org/abs/2305.08824)
+
 <hr />
 
 ![FAPlus_Net_Comparison.jpg](Figures/FAPlus_Net_Comparison.jpg)
