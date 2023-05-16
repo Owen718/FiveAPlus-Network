@@ -21,6 +21,24 @@ This is the office implementation of ***FiveA+Network: You Only Need 9K Paramete
 - [x] Model.py
 - [ ] Train.py
 
+## Installation
+Our FA+ Net is built in Pytorch1.11.0, we train and test it ion Ubuntu20.04 environment (Python3.8, cuda11.3).
+For installing, please follow these intructions.
+
+```
+conda create -n py38 python=3.8
+conda activate py38
+conda install pytorch=1.12 
+pip install opencv-python tqdm ....
+```
+
+## Model Testing
+**You can find the model weights under the model folder: α=0.1 and α=0.4 respectively.**
+Run the following commands:
+```
+python3  test.py --dataset dataset_path --save_path save_path  --model_path model_path 
+```
+The rusults will be saved in ./savepath/dataset_type/
 
 ## Contact
 **Jingxia Jiang: 202021114006@jmu.edu.cn** 

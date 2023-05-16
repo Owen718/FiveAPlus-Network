@@ -16,12 +16,10 @@ warnings.filterwarnings("ignore")
 from PIL import Image
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--cuda', action='store_true', help='use GPU computation')
-parser.add_argument('--n_cpu', type=int, default=15, help='number of cpu threads to use during batch generation')
 parser.add_argument('--dataset_type', type=str, default='uieb') 
-parser.add_argument('--dataset', type=str, default='/root/autodl-tmp/UIEB/test', help='path of CSD dataset') 
+parser.add_argument('--dataset', type=str, default='/root/autodl-tmp/UIEB/test', help='path of UIED') 
 parser.add_argument('--savepath', type=str, default='/root/Project/OUT/UIEB', help='path of output image') 
-parser.add_argument('--model_path', type=str, default='model/FAPlusNet-alpha-0.1.pth', help='path of SnowFormer checkpoint') 
+parser.add_argument('--model_path', type=str, default='model/FAPlusNet-alpha-0.1.pth', help='path of FA+Net checkpoint') 
 opt = parser.parse_args()
 
 val_set = UIEBD_Dataset(opt.dataset,train=False)
