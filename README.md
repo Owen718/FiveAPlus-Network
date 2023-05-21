@@ -49,3 +49,14 @@ Tian Ye: maserowen718@gmail.com
 
 Sixiang Chen: 201921114013@jmu.edu.cn
 
+
+## Citation
+```bibtex
+@article{jiang2023five,
+  title={Five A $\^{}$\{$+$\}$ $ Network: You Only Need 9K Parameters for Underwater Image Enhancement},
+  author={Jiang, Jingxia and Ye, Tian and Bai, Jinbin and Chen, Sixiang and Chai, Wenhao and Jun, Shi and Liu, Yun and Chen, Erkang},
+  journal={arXiv preprint arXiv:2305.08824},
+  year={2023}
+}
+```
+
