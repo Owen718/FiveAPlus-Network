@@ -6,6 +6,8 @@ This is the office implementation of ***FiveA+Network: You Only Need 9K Paramete
 
 ***JMU｜ HKUST(GZ)｜NUS｜ZJU｜XJU｜SWU***
 
+[Arxiv](https://arxiv.org/abs/2305.08824)
+
 <hr />
 
 ![FAPlus_Net_Comparison.jpg](Figures/FAPlus_Net_Comparison.jpg)
@@ -46,4 +48,15 @@ The rusults will be saved in ./savepath/dataset_type/
 Tian Ye: maserowen718@gmail.com 
 
 Sixiang Chen: 201921114013@jmu.edu.cn
+
+
+## Citation
+```bibtex
+@article{jiang2023five,
+  title={Five A $\^{}$\{$+$\}$ $ Network: You Only Need 9K Parameters for Underwater Image Enhancement},
+  author={Jiang, Jingxia and Ye, Tian and Bai, Jinbin and Chen, Sixiang and Chai, Wenhao and Jun, Shi and Liu, Yun and Chen, Erkang},
+  journal={arXiv preprint arXiv:2305.08824},
+  year={2023}
+}
+```
 
