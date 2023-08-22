@@ -1,10 +1,10 @@
-# FiveA+Network: You Only Need 9K Parameters for Underwater Image Enhancement
+# BMVC'23 FiveA+Network: You Only Need 9K Parameters for Underwater Image Enhancement
 
-This is the office implementation of ***FiveA+Network: You Only Need 9K Parameters for Underwater Image Enhancement.***
+This is the office implementation of ***FiveA+Network: You Only Need 9K Parameters for Underwater Image Enhancement, BMVC2023.***
 
 ***Jingxia Jiang, Tian Ye, Jinbin Bai, Sixiang Chen, Wenhao Chai, Jun Shi, Yun Liu, Erkang Chen***
 
-***JMU｜NUS｜ZJU｜XJU｜SWU***
+***JMU｜ HKUST(GZ)｜NUS｜ZJU｜XJU｜SWU***
 
 <hr />
 
