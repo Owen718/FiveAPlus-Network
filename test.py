@@ -10,7 +10,7 @@ from torchvision.utils import save_image,make_grid
 from tqdm import tqdm
 from torch.utils.data import DataLoader
 from myutils.dataloader import UIEBD_Dataset
-from archs.NEW_ARCH import FIVE_APLUSNet
+from archs.FIVE_APLUS import FIVE_APLUSNet
 from PIL import Image
 warnings.filterwarnings("ignore")
 from PIL import Image

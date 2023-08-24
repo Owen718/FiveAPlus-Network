@@ -1,5 +1,5 @@
 from ptflops import get_model_complexity_info
-from archs.NEW_ARCH import FIVE_APLUSNet
+from archs.FIVE_APLUS import FIVE_APLUSNet
 import torch
 import numpy as np
 import time

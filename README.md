@@ -21,7 +21,7 @@ This is the office implementation of ***FiveA+Network: You Only Need 9K Paramete
 ## TODO List
 - [x] Testing Code&Checkpoint
 - [x] Model.py
-- [ ] Train.py
+- [x] Train.py
 
 ## Installation
 Our FA+ Net is built in Pytorch1.11.0, we train and test it ion Ubuntu20.04 environment (Python3.8, cuda11.3).
