@@ -45,10 +45,6 @@ The rusults will be saved in ./savepath/dataset_type/
 ## Contact
 **Jingxia Jiang: 202021114006@jmu.edu.cn** 
 
-Tian Ye: maserowen718@gmail.com 
-
-Sixiang Chen: 201921114013@jmu.edu.cn
-
 
 ## Citation
 ```bibtex
